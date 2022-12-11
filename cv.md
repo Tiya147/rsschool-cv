@@ -1,3 +1,3 @@
-# Irina Inina
+# Tiya Goncharova
 
 ## Contacts
