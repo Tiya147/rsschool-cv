@@ -1,11 +1,11 @@
 # Tiya Goncharova
 
 ## Contacts 
-++__Location:__ Mogilev, Belarus
-++__Discord:__ Tiya147
-++__Phone:__ +375 (44) 7086510
-++__Email:__ ggtiya@gmail.com
-++__Telegram:__ @TiyaG
+*__Location:__ Mogilev, Belarus
+*__Discord:__ Tiya147
+*__Phone:__ +375 (44) 7086510
+*__Email:__ ggtiya@gmail.com
+*__Telegram:__ @TiyaG
 
 ## About me 
 ###I am an engineer for automated information processing and control systems. But after university, I worked as a teacher for 2 years and I liked it. After college, I have been working for more than 5 years as a developer of methodological materials (video lessons for schoolchildren and not only). I like my work, but I decided to go back to basics. I like to read fantasy and create something with my hands (knit handbags, baskets). I want to finish the course and finally understand whether I like to be a programmer or not. I love working to the music of Evanescence and Within Temptation.
